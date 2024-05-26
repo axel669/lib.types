@@ -1,0 +1,15 @@
+{
+  "name": "@axel669/types",
+  "version": "0.1.0",
+  "description": "Small library with some JS type utilities.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Axel",
+  "license": "MIT",
+  "files": [
+    "main.js"
+  ]
+}
